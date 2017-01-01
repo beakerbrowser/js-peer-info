@@ -44,7 +44,7 @@
   "dependencies": {
     "lodash.uniqby": "^4.7.0",
     "multiaddr": "^2.1.1",
-    "peer-id": "^0.8.1"
+    "peer-id": "git://github.com/beakerbrowser/js-peer-id#682e39f83b8148a7ed81a465f06d5556066cdb35"
   },
   "contributors": [
     "David Dias <daviddias.p@gmail.com>",
